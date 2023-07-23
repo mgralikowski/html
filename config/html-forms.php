@@ -11,7 +11,8 @@ return [
          */
         'all' => [
             'disabled',
-            'checked'
+            'checked',
+            'value'
         ],
 
         /**
